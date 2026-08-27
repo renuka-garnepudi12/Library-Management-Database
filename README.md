@@ -103,16 +103,16 @@ The database can be used to perform operations such as:
 ## 📸 Screenshots
 
 ### Students Table
-![Students Table](screenshots/students.png)
+![Students Table](students.png)
 
 ### Books Table
-![Books Table](screenshots/books.png)
+![Books Table](books.png)
 
 ### Borrowings Table
-![Borrowings Table](screenshots/borrowings.png)
+![Borrowings Table](borrowings.png)
 
 ### JOIN Query Result
-![JOIN Query Result](screenshots/join-query.png)
+![JOIN Query Result](join-query.png)
 
 ## 📁 Project Structure
 
