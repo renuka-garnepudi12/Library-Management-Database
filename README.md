@@ -1,5 +1,19 @@
 # 📚 Library Management Database
 
+**Internship Details**
+
+- **Internship Company:** CODTECH IT SOLUTIONS
+- **Domain:** SQL
+- **Intern Name:** Garnepudi Renuka Rani
+- **Intern ID:** CITS8857
+- **Project Title:** Library Management Database system
+- **Technologies Used:** MySQL, MySQL Workbench, SQL
+
+---
+
+# 📚 Library Management Database
+
+
 A SQL-based Library Management Database project developed using MySQL. This project is designed to manage and organize library information such as students, books, and borrowing records using relational database concepts.
 
 ## 📌 Project Overview
